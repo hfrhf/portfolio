@@ -840,8 +840,7 @@ section{
    .bar{display: block;}
    .hero{padding-top: 200px; }  
    
-    .title-heroo{font-size: 30px !important;}
-    .typewriter{font-size: 30px !important;}
+
  
  
     @keyframes taptop {
@@ -884,6 +883,8 @@ section{
     
         
     }
+     .title-heroo{font-size: 26px !important;}
+    .typewriter{font-size: 26px !important;}
     
 
 }
