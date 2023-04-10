@@ -49,7 +49,7 @@ window.onscroll=function(){
 }
 
 function twe(){
-  const words=["mohammed abdelhadi","freelancer"," front end developper"]
+  const words=["mohammed abdelhadi","a freelancer","a front end developper"]
   let wordCount=0
   let letterCount=0
   let currentText=""
