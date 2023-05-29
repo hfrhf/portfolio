@@ -808,12 +808,11 @@ section{
         
         
     }
+    .text-hero h1{font-size: 22px;}
     .fo ul li a{
-    color: var(--bs-light);
-    font-size: 17px;
-}
+        font-size: 17px;
+    }
 
-}
     
 
 
@@ -822,6 +821,10 @@ section{
     .image-us {display: none;}
     .form{width: 100% !important;}
     .img-hero{display: none;}
+    .fo ul li a{
+        font-size: 20px;
+    }
+
 
     nav{
         background-color: #15122e;
@@ -889,8 +892,9 @@ section{
     
         
     }
-     .title-heroo{font-size: 26px !important;}
-    .typewriter{font-size: 26px !important;}
+    .title-heroo{font-size: 25px !important;}
+    .typewriter{font-size: 25px !important;}
+    .text-hero h1{font-size: 25px;}
     
 
 }
@@ -912,6 +916,7 @@ section{
         margin: 20px 0;
         box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
       }
+
       
 
 
@@ -977,6 +982,11 @@ section{
 @media (min-width:1400px){
     .parent{width: 1320px;}
 }
+
+
+
+
+
 
 
 
